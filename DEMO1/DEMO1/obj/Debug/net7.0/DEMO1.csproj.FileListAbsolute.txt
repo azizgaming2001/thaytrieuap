@@ -1,0 +1,150 @@
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\appsettings.json
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.staticwebassets.runtime.json
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.exe
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.deps.json
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.runtimeconfig.json
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.pdb
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.AssemblyInfoInputs.cache
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.AssemblyInfo.cs
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.RazorAssemblyInfo.cache
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.RazorAssemblyInfo.cs
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets\msbuild.DEMO1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets\msbuild.build.DEMO1.props
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DEMO1.props
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DEMO1.props
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\scopedcss\bundle\DEMO1.styles.css
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\scopedcss\projectbundle\DEMO1.bundle.scp.css
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\refint\DEMO1.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.pdb
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.genruntimeconfig.cache
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\ref\DEMO1.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.csproj.AssemblyReference.cache
+C:\Users\khanh\Documents\Thay Trieu\code\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\appsettings.json
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.staticwebassets.runtime.json
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.exe
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.deps.json
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.runtimeconfig.json
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\DEMO1.pdb
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.RazorAssemblyInfo.cache
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.RazorAssemblyInfo.cs
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets\msbuild.DEMO1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets\msbuild.build.DEMO1.props
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.DEMO1.props
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.DEMO1.props
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\scopedcss\bundle\DEMO1.styles.css
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\scopedcss\projectbundle\DEMO1.bundle.scp.css
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.csproj.CopyComplete
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\refint\DEMO1.dll
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.pdb
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\DEMO1.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\DEMO1\DEMO1\obj\Debug\net7.0\ref\DEMO1.dll
